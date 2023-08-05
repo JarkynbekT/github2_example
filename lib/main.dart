@@ -54,7 +54,8 @@ class _MyHomePageState extends State<MyHomePage> {
         centerTitle: true,
         backgroundColor: Colors.white,
         title: const Text(
-          "Тапшырма 1",
+          "Тапшырма 1 Githubka juktoldu",
+          //ушу коммментарийди кара
           style: TextStyle(color: Colors.black),
         ),
         elevation: 0,
